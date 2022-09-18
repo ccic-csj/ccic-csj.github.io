@@ -1,6 +1,6 @@
 site_name: 中圣荷西基督徒会堂 - CCIC-CSJ
 theme:
-  favicon: images/favicon.png
+  logo: images/favicon.png
   name: material
   palette:
     # Palette toggle for light mode
