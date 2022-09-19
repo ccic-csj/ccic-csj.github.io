@@ -5,6 +5,7 @@ nav:
     - 同工訓練.md
     - 路加福音精讀.md
     - 以斯拉記.md
+    - 退休會.md
 hide:
   - footer-navigation
   - navigation

@@ -19,9 +19,24 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
+
 markdown_extensions:
   - tables
+  - attr_list
+  - md_in_html
+  - def_list
+  - def_list
+  - pymdownx.superfences
+  - cell_row_span
+  - pymdownx.tasklist:
+      custom_checkbox: true
+plugins:
+  - glightbox
+  - search:
+      lang:
+        - en
 extra_css:
-  - stylesheets/extra.css
+#  - stylesheets/extra.css
+  - stylesheets/style.css
 extra:
   generator: false
