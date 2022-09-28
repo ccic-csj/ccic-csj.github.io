@@ -6,17 +6,22 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
+    - content.tabs.link
 
 markdown_extensions:
   - tables
   - attr_list
   - md_in_html
   - def_list
-  - def_list
+  - admonition
+  - pymdownx.details
   - pymdownx.superfences
   - cell_row_span
   - pymdownx.tasklist:
       custom_checkbox: true
+  - pymdownx.tabbed:
+      alternate_style: true
+
 plugins:
   - glightbox
   - search:
