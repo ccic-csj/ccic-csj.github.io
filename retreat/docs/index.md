@@ -12,7 +12,7 @@ hide:
   - footer
 ---
 
-# 退休會
+# 退休會 2022
 
 ## 主題
 > ### **同心合一  TOGETHER IN ONE**
@@ -41,7 +41,7 @@ Camp Santa Cruz
 [注意事項 Tips](notes.md){ .md-button }
 [飯時信息 Food](food.md){ .md-button }
 [詩歌敬拜 Songs](songs.md){ .md-button }
-[銘牌設計 NameTag](card.md){ .md-button }
 [攜帶物品 Packing](list.md){ .md-button }
-[討論問題 Question](question.md){ .md-button }
+[討論問題 Discuss](question.md){ .md-button }
+[銘牌設計 NameTag](card.md){ .md-button }
 
