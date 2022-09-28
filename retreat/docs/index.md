@@ -36,10 +36,11 @@ Camp Santa Cruz
 
 ## 詳情
 
-[活動安排](agenda.md){ .md-button }
-[地圖信息](map.md){ .md-button }
-[注意事項](notes.md){ .md-button }
-[飯時信息](food.md){ .md-button }
-[詩歌敬拜](songs.md){ .md-button }
-[銘牌設計](card.md){ .md-button }
+[活動安排 Agenda](agenda.md){ .md-button }
+[地圖信息 Map](map.md){ .md-button }
+[注意事項 Tips](notes.md){ .md-button }
+[飯時信息 FoodInfo](food.md){ .md-button }
+[詩歌敬拜 WorshipSongs](songs.md){ .md-button }
+[銘牌設計 NameTag](card.md){ .md-button }
+[攜帶物品 PackingList](list.md){ .md-button }
 
