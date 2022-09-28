@@ -39,9 +39,10 @@ Camp Santa Cruz
 [活動安排 Agenda](agenda.md){ .md-button }
 [地圖信息 Map](map.md){ .md-button }
 [注意事項 Tips](notes.md){ .md-button }
-[飯時信息 Food](food.md){ .md-button }
+[飯時信息 FoodInfo](food.md){ .md-button }
 [詩歌敬拜 Songs](songs.md){ .md-button }
 [攜帶物品 Packing](list.md){ .md-button }
 [討論問題 Discuss](question.md){ .md-button }
-[銘牌設計 NameTag](card.md){ .md-button }
+
+[//]: # ([銘牌設計 NameTag]&#40;card.md&#41;{ .md-button })
 
