@@ -43,5 +43,6 @@ Camp Santa Cruz
 [詩歌敬拜 Songs](songs.md){ .md-button }
 [攜帶物品 Packing](list.md){ .md-button }
 [討論問題 Discuss](question.md){ .md-button }
-[銘牌設計 NameTag](card.md){ .md-button }
+
+[//]: # ([銘牌設計 NameTag]&#40;card.md&#41;{ .md-button })
 
