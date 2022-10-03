@@ -14,6 +14,8 @@ hide:
         * 退修會有現場燒製美味咖啡  There will be homemade gourme coffee provided on site
     * 營地椅子 Camp chair 
         * 在篝火和紅杉樹下會有座位，但是舒適起見，大家也可帶上自己的沙灘椅 <br>Seating available near the camp fire but you can bring your own camp chair to be more comfortable
+    * 頭燈 Headlamp
+        * 方便篝火之夜詩歌分享，以及晚上的其他活動 Headlamp is very useful for night songs sharing and other activities  
     * 個人常用藥 Medicine (if needed)
     * 遊戲 （如果晚上活動結束後，還想再玩耍的夥伴們）Boardgames (if you want to play at the dorm at night) :)
     * 保暖的衣服 Warm clothes
