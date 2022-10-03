@@ -255,13 +255,13 @@ hide:
     to be filled soon...
     ```
 
-=== "誰能所愛與神的愛隔絕"
+=== "誰能使我與神的愛隔絕"
 
     ``` markdown
     to be filled soon...
     ```
 
-=== "仰望恩典仰望"
+=== "仰望恩典"
 
     ``` markdown
     to be filled soon...
