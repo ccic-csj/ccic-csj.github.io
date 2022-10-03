@@ -2,6 +2,7 @@ site_name: 中圣荷西基督徒会堂 - 退修會 2022
 theme:
   logo: images/favicon.png
   name: material
+  favicon: images/favicon.png
   features:
     - navigation.tabs
     - navigation.tabs.sticky

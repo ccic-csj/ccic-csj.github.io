@@ -41,6 +41,7 @@ Camp Santa Cruz
 [攜帶物品 Packing](list.md){ .md-button }
 [注意事項 Tips](notes.md){ .md-button }
 [詩歌敬拜 Songs](songs.md){ .md-button }
+[吉他之夜 Guitar](guitar.md){ .md-button }
 [飯食信息 Food](food.md){ .md-button }
 [討論問題 Discuss](question.md){ .md-button }
 
