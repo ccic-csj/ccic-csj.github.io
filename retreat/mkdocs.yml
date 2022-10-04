@@ -2,6 +2,22 @@ site_name: 中圣荷西基督徒会堂 - 退修會 2022
 theme:
   logo: images/favicon.png
   name: material
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
   favicon: images/favicon.png
   features:
     - navigation.tabs
