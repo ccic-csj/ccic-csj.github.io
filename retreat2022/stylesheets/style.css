@@ -54,15 +54,15 @@
 }
 .md-typeset .admonition.guitar,
 .md-typeset details.guitar {
-  border-color: rgb(143, 155, 10);
+  border-color: rgb(93, 155, 130);
 }
 .md-typeset .guitar > .admonition-title,
 .md-typeset .guitar > summary {
-  background-color: rgba(143, 155, 70, 0.1);
+  background-color: rgba(93, 155, 130, 0.1);
 }
 .md-typeset .guitar > .admonition-title::before,
 .md-typeset .guitar > summary::before {
-  background-color: rgb(43, 155, 70);
+  background-color: rgb(93, 155, 130);
   -webkit-mask-image: var(--md-admonition-icon--guitar);
           mask-image: var(--md-admonition-icon--guitar);
 }
