@@ -29,6 +29,13 @@ Camp Santa Cruz
 
 631 26TH AVE, Santa Cruz, CA 95062
 
+## WIFI
+
+```
+WIFI: CSC Network
+Passwd: campsantacruz
+```
+
 [谷歌地圖](https://goo.gl/maps/B8pg1cafkmr2yRv67) 
 [蘋果地圖](https://maps.apple.com/?address=631%2026th%20Ave,%20Santa%20Cruz,%20CA%20%2095062,%20United%20States&auid=4501347018548362256&ll=36.962570,-121.976815&lsp=9902&q=Camp%20Santa%20Cruz&_ext=CjMKBQgEEOIBCgQIBRADCgUIBhCIAQoECAoQAAoECFIQCAoECFUQDQoECFkQAQoFCKQBEAESJin8lYTronpCQDE9Q1mL4H5ewDl6a6pHyXtCQEERDXtYKH5ewFAE)
 
@@ -44,6 +51,7 @@ Camp Santa Cruz
 [吉他之夜 Guitar](guitar.md){ .md-button }
 [飯食信息 Food](food.md){ .md-button }
 [討論問題 Discuss](question.md){ .md-button }
+[晨耕材料 Meditation](meditation.md){ .md-button }
 
 [//]: # ([銘牌設計 NameTag]&#40;card.md&#41;{ .md-button })
 
