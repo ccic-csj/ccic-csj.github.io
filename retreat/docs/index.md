@@ -52,7 +52,6 @@ Passwd: campsantacruz
 [飯食信息 Food](food.md){ .md-button }
 [討論問題 Discuss](question.md){ .md-button }
 [晨耕材料 Meditation](meditation.md){ .md-button }
-[活動圖片Photos](photo.md){ .md-button }
 
 [//]: # ([銘牌設計 NameTag]&#40;card.md&#41;{ .md-button })
 
