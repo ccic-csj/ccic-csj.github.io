@@ -1,6 +1,7 @@
 mkdocs
 mkdocs-git-revision-date-localized-plugin
 mkdocs-material
+pymdown-extensions
 mkdocs-material-extensions
 mkdocs-include-markdown-plugin
 linkcheckmd
