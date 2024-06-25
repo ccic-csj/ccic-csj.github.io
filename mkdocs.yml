@@ -38,8 +38,8 @@ theme:
     - content.code.annotate
   icon:
     repo: fontawesome/brands/github
-  #logo: https://images.squarespace-cdn.com/content/v1/62093451e124473bb9a5f88f/cc328e12-7228-4a34-82a7-f35418f82776/log_small.png?format=1500w
-  #favicon: https://images.squarespace-cdn.com/content/v1/62093451e124473bb9a5f88f/cc328e12-7228-4a34-82a7-f35418f82776/log_small.png?format=1500w
+  logo: https://images.squarespace-cdn.com/content/v1/62093451e124473bb9a5f88f/cc328e12-7228-4a34-82a7-f35418f82776/log_small.png?format=1500w
+  favicon: https://images.squarespace-cdn.com/content/v1/62093451e124473bb9a5f88f/cc328e12-7228-4a34-82a7-f35418f82776/log_small.png?format=1500w
 
 markdown_extensions:
   - toc:
