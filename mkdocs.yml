@@ -71,7 +71,6 @@ plugins:
       cache_safe: true
   - git-revision-date-localized:
       fallback_to_build_date: true
-  - privacy
 #  - spellcheck:
 #      known_words: dictionary.txt
 #      allow_unicode: no
