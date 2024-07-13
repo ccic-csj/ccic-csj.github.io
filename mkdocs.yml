@@ -2,13 +2,13 @@
 nav:
   - 退修会: index.md
   - 活動安排: agenda.md
-  - 晨耕材料: material.md
-  - 地圖信息: map.md
-  - 攜帶物品: reminder.md
-  - 敬拜詩歌: songs.md
-  - 活動報名: activity.md
-  - 工作坊: register.md
-  - 拼車: car.md
+#  - 晨耕材料: material.md
+#  - 地圖信息: map.md
+#  - 攜帶物品: reminder.md
+#  - 敬拜詩歌: songs.md
+#  - 活動報名: activity.md
+#  - 工作坊: register.md
+#  - 拼車: car.md
   - 行車路線: drive.md
 
 theme:
