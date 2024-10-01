@@ -6,9 +6,9 @@
 * 他能改变
 
 ## 星期六下午
-* XXX
-* XXX
-* XXXX
+* 一粒麦子
+* 我要一心称谢你
+* 我的神我的父我的磐石
 
 ## 星期六晚上
 * The Greatness of our God
