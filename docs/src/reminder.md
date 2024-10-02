@@ -8,19 +8,19 @@
         * 方便晚上的活動 Headlamp is very useful for night activities  
     * 個人常用藥 Medicine (if needed)
     * 遊戲 （如果晚上活動結束後，還想再玩耍的夥伴們）Boardgames (if you want to play at the dorm at night) :)
-    * 保暖的衣服 Warm clothes
+    * 合适的衣服 Warm clothes （这个周末白天气温较高）
     * 舒適的鞋子 Comfortable shoes
     * 防曬霜 Sunscreen
+    * 帽子 Hat
+    * 太阳镜 Sunglass
     * 一顆敞開，充滿愛的心去認識了解教會的弟兄姊妹 <br>An open and loving heart to get to know as many brothers and sisters as possible
 
 
 !!! sleep "對於住宿的弟兄姐妹 For those staying at the camp"
 
     * 衣服 Clothes
-        * 厚外套和/或毯子 Jackets and blankets 
-            * 那個週末晚上最低50幾度，白天最高70度左右 <br>Sep 29 - Oct 1 weekend weather: cloudy high in the 70s during the day and low in the 50s at night. 
         * 換洗衣物  Change clothes for the weekend
-    * 住宿用品 Lodging (Cabin only, others optional)
+    * 住宿用品 Lodging (Cabin only, notified only)
         * 睡袋，睡墊，被子，枕頭等等 Sleep bags and/or pillows, blankets, quilts
     * 保潔 Hygene
         * 洗漱用品 Tooth brush, tooth paste makeups and other essentials

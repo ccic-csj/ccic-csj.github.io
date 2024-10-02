@@ -2,5 +2,5 @@
 
 # 地圖信息
 
-![Image title](assets/pic/map.jpg)
+![Image title](assets/pic/map.png)
 
