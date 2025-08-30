@@ -8,7 +8,7 @@ nav:
   - 敬拜詩歌: songs.md
   - 食堂菜单: menu.md
   #  - 活動報名: activity.md
-#  - 工作坊: register.md
+  - 工作坊: register.md
 #  - 拼車: car.md
   - 行車路線: drive.md
 
@@ -102,10 +102,10 @@ watch:
   - .mailmap
 
 
-site_name: 2024 退修会 - 中圣荷西基督会堂
+site_name: 2025 退修会 - 中圣荷西基督会堂
 site_author: pengm
-site_description: 2024 退修会 - 中圣荷西基督会堂
-copyright: Copyright &copy; 2024 中圣荷西基督会堂
+site_description: 2025 退修会 - 中圣荷西基督会堂
+copyright: Copyright &copy; 2025 中圣荷西基督会堂
 #repo_url: https://ccic-csj.github.io/
 #repo_name: ccic-csj.github.io
 site_url: https://ccic-csj.github.io/
