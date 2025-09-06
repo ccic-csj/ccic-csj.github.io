@@ -1,14 +1,12 @@
 
-!!! everyone "所有退修會的弟兄姊妹 For Everyone"
+!!! everyone "所有退修會的弟兄姊妹"
 
     * 帶好自己的水杯 Bring your own mug/bottle
         * 減少浪費 To reduce waste
         * 茶水間和主會場都會供應熱水與咖啡  Hot water and coffee will be provided in the tea room and main conference room
-    * 個人常用藥 Medicine (if needed)
-    * 一顆敞開，充滿愛的心去認識了解教會的弟兄姊妹 <br>An open and loving heart to get to know as many brothers and sisters as possible
 
-[//]: # ()
-[//]: # (!!! sleep "對於住宿的弟兄姐妹 For those staying at the camp")
+
+[//]: # (!!! sleep "對於住宿的弟兄姐妹")
 
 [//]: # ()
 [//]: # (    * 衣服 Clothes)
@@ -33,8 +31,7 @@
 
 [//]: # (    * 拖鞋 Sandles)
 
-[//]: # ()
-[//]: # ()
+
 [//]: # ()
 [//]: # (!!! tip "弟兄姐妹的連結 Bonding")
 
