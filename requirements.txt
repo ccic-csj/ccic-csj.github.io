@@ -1,6 +1,6 @@
 mkdocs
 mkdocs-git-revision-date-localized-plugin
-mkdocs-material
+mkdocs-material==8.5.1
 pymdown-extensions
 mkdocs-material-extensions
 mkdocs-include-markdown-plugin
