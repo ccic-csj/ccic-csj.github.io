@@ -34,7 +34,7 @@
 |     **星期日上午**     |                            |         |
 |  7:30AM - 8:00AM  | 靈修 <br> Morning devotion   | TBD     |                                                                                                                                                                                                                                         
 |  8:00AM - 8:50AM  | 早餐 <br> Breakfast          | Syracuse     |                                                           
-|  9:00AM - 9:30AM  | 敬拜 <br> Worship            | Bayview     | 李文飞飞&Jeffrey以及敬拜團隊                                                                                                            
+|  9:00AM - 9:30AM  | 敬拜 <br> Worship            | Bayview     | 李文飞&Jeffrey以及敬拜團隊                                                                                                            
 | 9:30AM - 10:30AM  | 資訊 <br> Preaching          | Bayview     | 臻榮之路 – 信心賽程 （來十二1-3）賴若翰牧師 <br> 回應詩歌：「十架的呼喚」 / 新心音樂事工                                                               
 | 10:30AM - 11:15AM | 小组讨论 <br> Group discussion | Bayview     | 小组讨论，信息回应  <br> group discussion about the sermon                                                                             
 | 11:15AM - 12:00PM | 小组上台分享 <br> Sharing        | Bayview     |                                                                                                                                                                 
