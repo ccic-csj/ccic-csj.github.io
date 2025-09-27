@@ -5,7 +5,7 @@
     * 飯店提供冷水，教會會攜帶咖啡機，弟兄姊妹可自備熱水瓶或水壺，以響應環保。<br> The hotel provides cold water. The church will bring a coffee machine, and brothers and sisters are encouraged to bring their own thermos bottles or water flasks for environmental protection.
     * 有小朋友的家長，請留意孩子的行為，避免在飯店內嬉笑打鬧，確保安全。 <br> Parents with young children, please watch over them carefully and remind them not to run around or make loud noise in the hotel, for their safety.
     * 飯店設有游泳池，欲游泳的弟兄姊妹請自備泳衣，並注意安全。<br> The hotel has a swimming pool. Those who wish to swim should bring their own swimsuits and be mindful of safety.
-    * 吃饭时间尽量在餐厅内就食，酒店对外带饮食有严格要求。<br> Please eating in th
+    * 用餐時請盡量於餐廳內享用，飯店對攜帶外食有嚴格規定。<br> Please try to dine inside the restaurant, as the hotel has strict policies regarding outside food.
 [//]: # (!!! sleep "對於住宿的弟兄姐妹")
 
 [//]: # ()
