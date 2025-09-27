@@ -1,10 +1,10 @@
 
 !!! everyone "所有退修會的弟兄姊妹"
 
-    * 帶好自己的水杯 Bring your own mug/bottle
-        * 減少浪費 To reduce waste
-        * 茶水間和主會場都會供應熱水與咖啡  Hot water and coffee will be provided in the tea room and main conference room
-
+    * 若已預訂飯店卻臨時不去，請務必提前告知，以免造成教會需要額外補貼。 If you have booked the hotel but decide not to go, please inform us in advance. Otherwise, the church will need to cover the extra cost.
+    * 飯店提供冷水，教會會攜帶咖啡機，弟兄姊妹可自備熱水瓶或水壺，以響應環保。 The hotel provides cold water. The church will bring a coffee machine, and brothers and sisters are encouraged to bring their own thermos bottles or water flasks for environmental protection.
+    * 有小朋友的家長，請留意孩子的行為，避免在飯店內嬉笑打鬧，確保安全。  Parents with young children, please watch over them carefully and remind them not to run around or make loud noise in the hotel, for their safety.
+    * 飯店設有游泳池，欲游泳的弟兄姊妹請自備泳衣，並注意安全。The hotel has a swimming pool. Those who wish to swim should bring their own swimsuits and be mindful of safety.
 
 [//]: # (!!! sleep "對於住宿的弟兄姐妹")
 
